@@ -1,0 +1,17 @@
+{
+  "name": "xsmb-crawl-data-tool",
+  "version": "1.0.0",
+  "description": "A crawl tool to clone data xmsb since 2007 to current date",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "QuangNV",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0",
+    "lowdb": "^1.0.0",
+    "pm2": "^4.5.4",
+    "puppeteer": "^7.1.0"
+  }
+}
