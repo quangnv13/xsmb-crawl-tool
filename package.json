@@ -9,9 +9,7 @@
   "author": "QuangNV",
   "license": "ISC",
   "dependencies": {
-    "global": "^4.4.0",
     "lowdb": "^1.0.0",
-    "pm2": "^4.5.4",
     "puppeteer": "^7.1.0"
   }
 }
